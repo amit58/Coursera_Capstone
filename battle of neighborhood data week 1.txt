@@ -1,0 +1,10 @@
+Capstone project - Battle of neighborhoods
+
+Data
+
+To help Reshmi Mazumdar for her dream project we need below data:
+
+1. All area names of kolkata which we have reserached and make a csv file.
+2. Based on area name we have accessed longitute and latitute data by using geolocator.
+3. Based on area name, longitute and latitute data we have accessed nearby venues by foursquare API.
+4. For each location we got N numbers of venues with different categories i.e. chinese restaurant, cinema , station etc.

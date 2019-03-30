@@ -1,0 +1,16 @@
+Capstone project - Battle of neighborhoods
+
+Introduction
+
+I live in a city called Kolkata. It's one of metropolitan city in India. 
+French author Dominique Lapierre called this City of Joy, It can be considered as food capital of india.
+So recently one of my friend Reshmi Mazumdar wished to open a chienese restaurant in Kolkata.
+But she is not sure about the location where she should open her restaurant.
+So she discussed with me about her dream project as she was aware about my learning Data science in Coursera.
+
+So I thought below bussiness problem for her:
+
+1. She should open her restaurent in a location where  there are enough customers and minimum competitor restorant.
+2. We should explore all the qualified venues in kolkata to decide best location for chinese restaurent.
+3. Need to know what category of customers are avaailable whether they are target customers by their age.
+4. Based on all the information we need to maximize score and decide the best location.
